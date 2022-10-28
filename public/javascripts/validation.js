@@ -40,4 +40,16 @@ var cross_validation = function(examples, segment_number, classification_algorit
     for(var i = 1; i < examples.length; i+=segment_size) {
         var learning_set = examples.slice(0, i).concat(examples.slice(i+segment_size, examples.length)); //not taking the i-esim
         var test_set = examples.slice(i, i+segment_size);
-        console.lo
+        console.log("learning set size: " + learning_set.length);
+        console.log("test set size: " + test_set.length);
+        var base = base_validation(learning_set, test_set, classification_algorithm);
+        if(base!=null) {
+            if(base>best_fold) best_fold = base;
+            console.log("" + Math.ceil(i / segment_size) + ": " + base);
+            total += base;
+            calls++;
+        }
+    }
+    console.log("average: "+ total/calls);
+    return [total/calls, best_fold];
+};
