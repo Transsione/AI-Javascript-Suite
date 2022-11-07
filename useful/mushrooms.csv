@@ -795,4 +795,30 @@ flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enla
 flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enlarging;rooted ;smooth ;scaly  ;white   ;white   ;partial;white ;one ;pendant   ;black    ;solitary ;paths  ;EDIBLE   
 flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enlarging;rooted ;smooth ;scaly  ;white   ;white   ;partial;white ;one ;pendant   ;black    ;scattered;grasses;EDIBLE   
 flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enlarging;rooted ;smooth ;scaly  ;white   ;white   ;partial;white ;one ;pendant   ;black    ;scattered;paths  ;EDIBLE   
-flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enlarging;rooted ;smooth ;scaly  ;white   ;white   ;partial;white ;one ;pendant   ;bro
+flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enlarging;rooted ;smooth ;scaly  ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;solitary ;grasses;EDIBLE   
+flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enlarging;rooted ;smooth ;scaly  ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;solitary ;paths  ;EDIBLE   
+flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enlarging;rooted ;smooth ;scaly  ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;scattered;grasses;EDIBLE   
+flat   ;scaly  ;brown   ;bruises;anise   ;free    ;close  ;broad ;brown    ;enlarging;rooted ;smooth ;scaly  ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;scattered;paths  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;gray     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;gray     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;gray     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;gray     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;black    ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;black    ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;black    ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;black    ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;brown    ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;brown    ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;brown    ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;gray    ;no     ;none    ;free    ;close  ;narrow;brown    ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;gray     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;gray     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;gray     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;gray     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;solitary ;urban  ;EDIBLE   
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;urban  ;EDIBLE   
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;pend
