@@ -2156,4 +2156,30 @@ flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;black    ;tape
 flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;black    ;tapering ;equal  ;fibrous;smooth ;white   ;white   ;partial;white ;one ;evanescent;brown    ;scattered;grasses;EDIBLE   
 flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;black    ;tapering ;equal  ;fibrous;smooth ;white   ;white   ;partial;white ;one ;evanescent;brown    ;abundant ;grasses;EDIBLE   
 flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;black    ;tapering ;equal  ;fibrous;fibrous;white   ;white   ;partial;white ;one ;evanescent;black    ;scattered;grasses;EDIBLE   
-flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;black    ;tapering
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;black    ;tapering ;equal  ;fibrous;fibrous;white   ;white   ;partial;white ;one ;evanescent;black    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;black    ;tapering ;equal  ;fibrous;fibrous;white   ;white   ;partial;white ;one ;evanescent;brown    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;black    ;tapering ;equal  ;fibrous;fibrous;white   ;white   ;partial;white ;one ;evanescent;brown    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;black    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;black    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;brown    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;brown    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;smooth ;fibrous;white   ;white   ;partial;white ;one ;evanescent;black    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;smooth ;fibrous;white   ;white   ;partial;white ;one ;evanescent;black    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;smooth ;fibrous;white   ;white   ;partial;white ;one ;evanescent;brown    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;smooth ;fibrous;white   ;white   ;partial;white ;one ;evanescent;brown    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;fibrous;smooth ;white   ;white   ;partial;white ;one ;evanescent;black    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;fibrous;smooth ;white   ;white   ;partial;white ;one ;evanescent;black    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;fibrous;smooth ;white   ;white   ;partial;white ;one ;evanescent;brown    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;fibrous;smooth ;white   ;white   ;partial;white ;one ;evanescent;brown    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;fibrous;fibrous;white   ;white   ;partial;white ;one ;evanescent;black    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;fibrous;fibrous;white   ;white   ;partial;white ;one ;evanescent;black    ;abundant ;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;fibrous;fibrous;white   ;white   ;partial;white ;one ;evanescent;brown    ;scattered;grasses;EDIBLE   
+flat   ;fibrous;brown   ;no     ;none    ;free    ;crowded;broad ;brown    ;tapering ;equal  ;fibrous;fibrous;white   ;white   ;partial;white ;one ;evanescent;brown    ;abundant ;grasses;EDIBLE   
+convex ;fibrous;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;tapering ;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;solitary ;woods  ;EDIBLE   
+convex ;fibrous;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;tapering ;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;woods  ;EDIBLE   
+convex ;fibrous;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;tapering ;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;solitary ;woods  ;EDIBLE   
+convex ;fibrous;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;tapering ;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;woods  ;EDIBLE   
+convex ;fibrous;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;tapering ;bulbous;smooth ;smooth ;white   ;pink    ;partial;white ;one ;pendant   ;black    ;solitary ;woods  ;EDIBLE   
+convex ;fibrous;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;tapering ;bulbous;smooth ;smooth ;white   ;pink    ;partial;white ;one ;pendant   ;black    ;several  ;woods  ;EDIBLE   
+convex ;fibrous;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;tapering ;bulbous;smooth ;smooth ;white   ;pink    ;partial;white ;one ;pendant   ;brown    ;solitary ;woods  ;EDIBLE   
+convex ;fibrous;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;ta
