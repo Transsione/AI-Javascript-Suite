@@ -4086,4 +4086,30 @@ convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;gray     ;enla
 convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;pink     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;scattered;woods  ;POISONOUS
 convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;pink     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;woods  ;POISONOUS
 convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;pink     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;scattered;woods  ;POISONOUS
-convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;pink     ;enlarging;bulbous;smooth ;smooth ;white   ;wh
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;pink     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;purple   ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;scattered;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;purple   ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;purple   ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;scattered;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;purple   ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;brown    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;scattered;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;brown    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;black    ;several  ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;brown    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;scattered;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;creosote;free    ;crowded;narrow;brown    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;brown    ;several  ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;buff    ;partial;white ;one ;large     ;chocolate;solitary ;grasses;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;buff    ;partial;white ;one ;large     ;chocolate;solitary ;paths  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;buff    ;partial;white ;one ;large     ;chocolate;solitary ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;buff    ;partial;white ;one ;large     ;chocolate;several  ;grasses;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;buff    ;partial;white ;one ;large     ;chocolate;several  ;paths  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;buff    ;partial;white ;one ;large     ;chocolate;several  ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;pink    ;partial;white ;one ;large     ;chocolate;solitary ;grasses;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;pink    ;partial;white ;one ;large     ;chocolate;solitary ;paths  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;pink    ;partial;white ;one ;large     ;chocolate;solitary ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;pink    ;partial;white ;one ;large     ;chocolate;several  ;grasses;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;pink    ;partial;white ;one ;large     ;chocolate;several  ;paths  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;pink    ;partial;white ;one ;large     ;chocolate;several  ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;brown   ;partial;white ;one ;large     ;chocolate;solitary ;grasses;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;brown   ;partial;white ;one ;large     ;chocolate;solitary ;paths  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;brown   ;partial;white ;one ;large     ;chocolate;solitary ;woods  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;brown   ;partial;white ;one ;large     ;chocolate;several  ;grasses;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;brown   ;partial;white ;one ;large     ;chocolate;several  ;paths  ;POISONOUS
+convex ;fibrous;gray    ;no     ;foul    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;silky  ;silky  ;buff    ;brown   ;par
