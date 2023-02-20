@@ -5402,4 +5402,30 @@ convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;chocolate;enla
 convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
 convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
 convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
-convex ;scaly  ;purple  ;no     ;none    ;free    ;clos
+convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;chocolate;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;chocolate;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;green   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;green   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;green   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;green   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;green   ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;green   ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;green   ;no     ;none    ;free    ;close  ;narrow;chocolate;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;green   ;no     ;none    ;free    ;close  ;narrow;chocolate;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+flat   ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+flat   ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+flat   ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+flat   ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+flat   ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+flat   ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+flat   ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;chocolate;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+flat   ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;chocolate;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+flat   ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+flat   ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+flat   ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+flat   ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+flat   ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+flat   ;scaly  ;purple  ;
