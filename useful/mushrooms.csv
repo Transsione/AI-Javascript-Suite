@@ -5376,4 +5376,30 @@ flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enla
 flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;buff    ;partial;white ;one ;large     ;chocolate;solitary ;grasses;POISONOUS
 flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;buff    ;partial;white ;one ;large     ;chocolate;solitary ;paths  ;POISONOUS
 flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;buff    ;partial;white ;one ;large     ;chocolate;solitary ;woods  ;POISONOUS
-flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;cl
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;buff    ;partial;white ;one ;large     ;chocolate;several  ;grasses;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;buff    ;partial;white ;one ;large     ;chocolate;several  ;paths  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;buff    ;partial;white ;one ;large     ;chocolate;several  ;woods  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;pink    ;partial;white ;one ;large     ;chocolate;solitary ;grasses;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;pink    ;partial;white ;one ;large     ;chocolate;solitary ;paths  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;pink    ;partial;white ;one ;large     ;chocolate;solitary ;woods  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;pink    ;partial;white ;one ;large     ;chocolate;several  ;grasses;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;pink    ;partial;white ;one ;large     ;chocolate;several  ;paths  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;pink    ;partial;white ;one ;large     ;chocolate;several  ;woods  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;brown   ;partial;white ;one ;large     ;chocolate;solitary ;grasses;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;brown   ;partial;white ;one ;large     ;chocolate;solitary ;paths  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;brown   ;partial;white ;one ;large     ;chocolate;solitary ;woods  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;brown   ;partial;white ;one ;large     ;chocolate;several  ;grasses;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;brown   ;partial;white ;one ;large     ;chocolate;several  ;paths  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;foul    ;free    ;close  ;broad ;chocolate;enlarging;bulbous;silky  ;silky  ;brown   ;brown   ;partial;white ;one ;large     ;chocolate;several  ;woods  ;POISONOUS
+convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;purple   ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;chocolate;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;white   ;no     ;none    ;free    ;close  ;narrow;chocolate;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;several  ;woods  ;EDIBLE   
+convex ;scaly  ;purple  ;no     ;none    ;free    ;close  ;narrow;pink     ;enlarging;?      ;smooth ;fibrous;white   ;white   ;partial;white ;one ;flaring   ;chocolate;solitary ;woods  ;EDIBLE   
+convex ;scaly  ;purple  ;no     ;none    ;free    ;clos
