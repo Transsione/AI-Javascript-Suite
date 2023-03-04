@@ -5739,4 +5739,30 @@ bell   ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;gray     ;enla
 bell   ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
 bell   ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
 bell   ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
-bell   ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;s
+bell   ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;white   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;white   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;white   ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;white   ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;white   ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;white   ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;pink    ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;pink    ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;pink    ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;pink    ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;gray     ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+bell   ;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+bell   ;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;green    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+flat   ;smooth ;white   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;meadows;POISONOUS
+flat   ;smooth ;white   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;green    ;several  ;grasses;POISONOUS
+flat   ;smooth ;white   ;bruises;none    ;free  
