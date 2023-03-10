@@ -5867,4 +5867,30 @@ knobbed;scaly  ;cinnamon;no     ;none    ;free    ;crowded;narrow;white    ;enla
 knobbed;scaly  ;cinnamon;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;fibrous;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;EDIBLE   
 knobbed;scaly  ;cinnamon;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;fibrous;smooth ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;EDIBLE   
 knobbed;scaly  ;cinnamon;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;fibrous;fibrous;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;EDIBLE   
-knobbed;scaly  ;brown   ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;brown   ;partial;white ;one ;evanescent;white    
+knobbed;scaly  ;brown   ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;EDIBLE   
+knobbed;scaly  ;brown   ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;fibrous;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;EDIBLE   
+knobbed;scaly  ;brown   ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;fibrous;smooth ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;EDIBLE   
+knobbed;scaly  ;brown   ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;fibrous;fibrous;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;EDIBLE   
+convex ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;buff    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;red     ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;red     ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+convex ;smooth ;red     ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;eva
