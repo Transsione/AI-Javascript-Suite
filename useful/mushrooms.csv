@@ -6100,4 +6100,30 @@ knobbed;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enla
 knobbed;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
 knobbed;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
 knobbed;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
-knobbed;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white  
+knobbed;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+knobbed;scaly  ;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+knobbed;scaly  ;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+convex ;smooth ;red     ;no     ;foul    ;free    ;close  ;narrow;buff     ;tapering ;?     
