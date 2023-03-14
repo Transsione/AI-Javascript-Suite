@@ -6074,4 +6074,30 @@ knobbed;scaly  ;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enla
 bell   ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
 bell   ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
 bell   ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
-bell   ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   
+bell   ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+bell   ;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+bell   ;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+bell   ;scaly  ;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+bell   ;scaly  ;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;scaly  ;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+convex ;scaly  ;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+knobbed;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+knobbed;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+knobbed;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+knobbed;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+knobbed;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+knobbed;scaly  ;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white  
