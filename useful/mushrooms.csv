@@ -6048,4 +6048,30 @@ knobbed;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;red      ;enla
 knobbed;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
 knobbed;scaly  ;buff    ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
 knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
-knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clu
+knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;red     ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;white   ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;white   ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+knobbed;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;red      ;enlarging;?      ;smooth ;smooth ;red     ;red     ;partial;white ;two ;evanescent;white    ;clustered;waste  ;EDIBLE   
+bell   ;grooves;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;white    ;clustered;leaves ;POISONOUS
+bell   ;scaly  ;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;white    ;clustered;leaves ;POISONOUS
+conical;grooves;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;white    ;clustered;leaves ;POISONOUS
+conical;scaly  ;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;white    ;clustered;leaves ;POISONOUS
+flat   ;grooves;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;white    ;clustered;leaves ;POISONOUS
+flat   ;scaly  ;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;white    ;clustered;leaves ;POISONOUS
+knobbed;grooves;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;white    ;clustered;leaves ;POISONOUS
+knobbed;scaly  ;white   ;bruises;none    ;free    ;crowded;narrow;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;one ;pendant   ;white    ;clustered;leaves ;POISONOUS
+bell   ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+bell   ;fibrous;brown   ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;brown   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+bell   ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   ;yellow  ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+bell   ;fibrous;yellow  ;no     ;none    ;free    ;close  ;narrow;white    ;enlarging;?      ;silky  ;scaly  ;white   
