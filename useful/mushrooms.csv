@@ -6770,4 +6770,30 @@ flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tape
 flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;silky  ;silky  ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
 flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;silky  ;silky  ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
 flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;silky  ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
-flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?
+flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;silky  ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;silky  ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;silky  ;silky  ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;silky  ;silky  ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;fishy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;silky  ;silky  ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;smooth ;pink    ;pink    ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;white   ;pink    ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;leaves ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;paths  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tapering ;?      ;smooth ;silky  ;pink    ;white   ;partial;white ;one ;evanescent;white    ;several  ;woods  ;POISONOUS
+flat   ;smooth ;red     ;no     ;spicy   ;free    ;close  ;narrow;buff     ;tape
