@@ -7873,4 +7873,30 @@ knobbed;scaly  ;brown   ;no     ;musty   ;attached;close  ;broad ;white    ;enla
 knobbed;scaly  ;brown   ;no     ;musty   ;attached;close  ;broad ;yellow   ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
 knobbed;scaly  ;red     ;no     ;musty   ;free    ;close  ;broad ;white    ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
 knobbed;scaly  ;red     ;no     ;musty   ;free    ;close  ;broad ;yellow   ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
-knobbed;scaly  ;red     ;no     ;musty   ;attached;close  ;broad ;white    ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods 
+knobbed;scaly  ;red     ;no     ;musty   ;attached;close  ;broad ;white    ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
+knobbed;scaly  ;red     ;no     ;musty   ;attached;close  ;broad ;yellow   ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
+knobbed;scaly  ;brown   ;no     ;musty   ;free    ;close  ;broad ;white    ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
+knobbed;scaly  ;brown   ;no     ;musty   ;free    ;close  ;broad ;yellow   ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
+knobbed;scaly  ;brown   ;no     ;musty   ;attached;close  ;broad ;white    ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
+knobbed;scaly  ;brown   ;no     ;musty   ;attached;close  ;broad ;yellow   ;enlarging;club   ;silky  ;scaly  ;cinnamon;cinnamon;partial;white ;none;none      ;white    ;clustered;woods  ;POISONOUS
+bell   ;scaly  ;yellow  ;no     ;none    ;free    ;crowded;narrow;yellow   ;enlarging;club   ;scaly  ;scaly  ;yellow  ;yellow  ;partial;yellow;one ;evanescent;white    ;clustered;leaves ;POISONOUS
+bell   ;scaly  ;yellow  ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;club   ;scaly  ;scaly  ;yellow  ;yellow  ;partial;yellow;one ;evanescent;white    ;clustered;leaves ;POISONOUS
+conical;scaly  ;yellow  ;no     ;none    ;free    ;crowded;narrow;yellow   ;enlarging;club   ;scaly  ;scaly  ;yellow  ;yellow  ;partial;yellow;one ;evanescent;white    ;clustered;leaves ;POISONOUS
+conical;scaly  ;yellow  ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;club   ;scaly  ;scaly  ;yellow  ;yellow  ;partial;yellow;one ;evanescent;white    ;clustered;leaves ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;none    ;free    ;crowded;narrow;yellow   ;enlarging;club   ;scaly  ;scaly  ;yellow  ;yellow  ;partial;yellow;one ;evanescent;white    ;clustered;leaves ;POISONOUS
+flat   ;scaly  ;yellow  ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;club   ;scaly  ;scaly  ;yellow  ;yellow  ;partial;yellow;one ;evanescent;white    ;clustered;leaves ;POISONOUS
+knobbed;scaly  ;yellow  ;no     ;none    ;free    ;crowded;narrow;yellow   ;enlarging;club   ;scaly  ;scaly  ;yellow  ;yellow  ;partial;yellow;one ;evanescent;white    ;clustered;leaves ;POISONOUS
+knobbed;scaly  ;yellow  ;no     ;none    ;free    ;crowded;narrow;white    ;enlarging;club   ;scaly  ;scaly  ;yellow  ;yellow  ;partial;yellow;one ;evanescent;white    ;clustered;leaves ;POISONOUS
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;scattered;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;white    ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;numerous ;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;white    ;enlarging;?      ;smooth ;silky  ;white   ;white   ;partial;white ;two ;pendant   ;white    ;scattered;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;white    ;enlarging;?      ;smooth ;silky  ;white   ;white   ;partial;white ;two ;pendant   ;white    ;numerous ;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;white    ;enlarging;?      ;silky  ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;scattered;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;white    ;enlarging;?      ;silky  ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;numerous ;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;white    ;enlarging;?      ;silky  ;silky  ;white   ;white   ;partial;white ;two ;pendant   ;white    ;scattered;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;white    ;enlarging;?      ;silky  ;silky  ;white   ;white   ;partial;white ;two ;pendant   ;white    ;numerous ;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;gray     ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;scattered;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;gray     ;enlarging;?      ;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;numerous ;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;gray     ;enlarging;?      ;smooth ;silky  ;white   ;white   ;partial;white ;two ;pendant   ;white    ;scattered;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;gray     ;enlarging;?      ;smooth ;silky  ;white   ;white   ;partial;white ;two ;pendant   ;white    ;numerous ;grasses;EDIBLE   
+bell   ;smooth ;white   ;no     ;none    ;free    ;crowded;broad ;gray     ;enlarging;?      ;silky  ;smooth ;white   ;white   ;partial;whi
