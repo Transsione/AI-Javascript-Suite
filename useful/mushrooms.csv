@@ -8207,4 +8207,29 @@ convex ;scaly  ;cinnamon;bruises;none    ;free    ;close  ;broad ;white    ;enla
 convex ;scaly  ;cinnamon;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
 convex ;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
 convex ;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
-flat   ;smooth ;gray    ;bruises;none   
+flat   ;smooth ;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
+flat   ;smooth ;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
+flat   ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
+flat   ;smooth ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
+flat   ;smooth ;cinnamon;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
+flat   ;smooth ;cinnamon;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
+flat   ;smooth ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
+flat   ;smooth ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
+flat   ;scaly  ;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
+flat   ;scaly  ;gray    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
+flat   ;scaly  ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
+flat   ;scaly  ;pink    ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
+flat   ;scaly  ;cinnamon;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
+flat   ;scaly  ;cinnamon;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
+flat   ;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;solitary ;paths  ;EDIBLE   
+flat   ;scaly  ;brown   ;bruises;none    ;free    ;close  ;broad ;white    ;enlarging;bulbous;smooth ;smooth ;white   ;white   ;partial;white ;two ;pendant   ;white    ;several  ;paths  ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;yellow   ;several  ;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;yellow   ;clustered;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;brown    ;several  ;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;brown    ;clustered;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;orange   ;several  ;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;orange   ;clustered;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;buff     ;several  ;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;buff     ;clustered;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;yellow   ;several  ;leaves ;EDIBLE   
+bell   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendan
