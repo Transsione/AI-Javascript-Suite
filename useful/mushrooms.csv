@@ -8310,4 +8310,30 @@ convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enla
 convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;orange   ;several  ;leaves ;EDIBLE   
 convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;orange   ;clustered;leaves ;EDIBLE   
 convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;buff     ;several  ;leaves ;EDIBLE   
-convex ;smooth ;brown   ;no     ;none    ;attached;
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;buff     ;clustered;leaves ;EDIBLE   
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;yellow   ;several  ;leaves ;EDIBLE   
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;yellow   ;clustered;leaves ;EDIBLE   
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;brown    ;several  ;leaves ;EDIBLE   
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;brown    ;clustered;leaves ;EDIBLE   
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;orange   ;several  ;leaves ;EDIBLE   
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;orange   ;clustered;leaves ;EDIBLE   
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;buff     ;several  ;leaves ;EDIBLE   
+convex ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;brown    ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;buff     ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;yellow   ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;yellow   ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;brown    ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;brown    ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;orange   ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;orange   ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;buff     ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;buff     ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;yellow   ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;yellow   ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;brown    ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;brown    ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;orange   ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;orange   ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;buff     ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;yellow   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;brown ;one ;pendant   ;buff     ;clustered;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;close  ;broad ;orange   ;enlarging;?      ;smooth ;smooth ;orange  ;orange  ;partial;orange;one ;pendant   ;yellow   ;several  ;leaves ;EDIBLE   
+flat   ;smooth ;brown   ;no     ;none    ;attached;cl
